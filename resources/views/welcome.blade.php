@@ -114,6 +114,26 @@
                     </div>
                 </div>
             </div>
+             <!-- Project Two Row-->
+             <div class="row gx-0 justify-content-center">
+                    <div class="col-lg-6"><img class="img-fluid" src="assets/img/05.jpg" alt="..." /></div>
+                    <div class="col-lg-6 order-lg-first">
+                        <div class="bg-black text-center h-100 project">
+                            <div class="d-flex h-100">
+                                <div class="project-text w-100 my-auto text-center text-lg-right">
+                                    <h4 class="text-white">Bugatti Veyron Super Sport</h4>
+                                    <p class="mb-0 text-white-50">Bugatti Veyron Super Sport que destacaba por su carrocería rediseñada 
+                                        para ser aún más deportiva y ofrecer una menor resistencia al aire y un W16 8.0 potenciado hasta 
+                                        los 1.200 CV. Con él lograron en 2010 alcanzar los 430,98 km/h que les való el Récord Guinness, aunque
+                                        unos años después lo invalidaron por no ser un coche similar a los que se hicieron de producción, 
+                                        ya que estos cuentan con limitador de velocidad para no superar los 415 km/h y proteger sus neumáticos.</p>
+                                    <hr class="d-none d-lg-block mb-0 me-0" />
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
         <!-- Signup-->
         <section class="signup-section" id="signup">
