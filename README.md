@@ -6,5 +6,7 @@
 # Docente: Emmanuel Torres Servin 
 # 3522 IS 
 
-# https://github.com/DanielaLandinJar/BLOGLANDIN.git
-# https://bloglandin26.herokuapp.com/
+# https://github.com/DanielaLandinJar/BLOGLANDINUNIT3
+# https://rickandmortyapi.com/
+#
+#

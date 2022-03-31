@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         <meta name="description" content="" />
         <meta name="author" content="" />
-        <title>Mi Blog</title> Mi Primer Blog
+        <title>Mi Blog</title> LANDIN JARQUIN DANIELA
         <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
         <!-- Font Awesome icons (free version)-->
         <script src="https://use.fontawesome.com/releases/v5.15.4/js/all.js" crossorigin="anonymous"></script>
@@ -19,16 +19,16 @@
         <!-- Navigation-->
         <nav class="navbar navbar-expand-lg navbar-light fixed-top" id="mainNav">
             <div class="container px-4 px-lg-5">
-                <a class="navbar-brand" href="#page-top">MI BLOG</a>
+                <a class="navbar-brand" href="#page-top">BLOG DLJ</a>
                 <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
                     Menu
                     <i class="fas fa-bars"></i>
                 </button>
                 <div class="collapse navbar-collapse" id="navbarResponsive">
                     <ul class="navbar-nav ms-auto">
-                        <li class="nav-item"><a class="nav-link" href="#about">Sobre mi</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#projects">Mis gustos</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#signup">Contacto</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#about">AUTOS</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#projects">DESCRIPCION</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#signup">CONTACTO</a></li>
                     </ul>
                 </div>
             </div>
@@ -38,8 +38,8 @@
             <div class="container px-4 px-lg-5 d-flex h-100 align-items-center justify-content-center">
                 <div class="d-flex justify-content-center">
                     <div class="text-center">
-                        <h1 class="mx-auto my-0 text-uppercase">Daniela Landin Jarquin</h1>
-                        <a class="btn btn-primary" href="#about">Conoceme</a>
+                        <h1 class="mx-auto my-0 text-uppercase">AUTOS MAS RAPIDOS</h1>
+                        <a class="btn btn-primary" href="#about">Conoce acerca de los autos mas rapidos del mundo</a>
                     </div>
                 </div>
             </div>
@@ -49,14 +49,16 @@
             <div class="container px-4 px-lg-5">
                 <div class="row gx-4 gx-lg-5 justify-content-center">
                     <div class="col-lg-8">
-                        <h2 class="text-white mb-4">¿Quien soy?</h2>
+                        <h2 class="text-white mb-4">Bugatti Chiron Super Sport 300</h2>
                         <p class="text-white-50">
-                            Nací en la Ciudad de Mexico el 26 de Septiembre del 2002, actualmente tengo 19 años, soy Tec. en Diseño Asistido por Computadora y estudio la carrera de ingineria en software
-                            en la Universidad Politecnica de Tecamac. Soy una persona muy sociable y entregada a lo que hago.
+                        Este Bugatti Chiron Super Sport 300+ alcanzar por primera vez en la historia los 490 km/h -490,48 km/h 
+                        para ser exactos- para convertirse así, y hasta la fecha, en la velocidad más alta que haya alcanzado un
+                        coche de producción. Y es que tras el récord se convirtió en un modelo de serie limitada a 30 unidades
+                        a unos 3,5 millones de euros la pieza, aunque éstas se limitan a "solo" 440 km/h.
                         </p>
                     </div>
                 </div>
-                <img class="img-fluid" src="assets/img/03.jpeg" alt="..." />
+                <img class="img-fluid" src="assets/img/01.jpg" alt="..." />
             </div>
         </section>
         <!-- Projects-->
@@ -64,23 +66,29 @@
             <div class="container px-4 px-lg-5">
                 <!-- Featured Project Row-->
                 <div class="row gx-0 mb-4 mb-lg-5 align-items-center">
-                    <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="assets/img/05.jpeg" alt="..." /></div>
+                    <div class="col-xl-8 col-lg-7"><img class="img-fluid mb-3 mb-lg-0" src="assets/img/02.jpg" alt="..." /></div>
                     <div class="col-xl-4 col-lg-5">
                         <div class="featured-text text-center text-lg-left">
-                            <h4>Diseñar</h4>
-                            <p class="text-black-50 mb-0">Cuendo tengo tiempo libre me gusta diseñarme playeras e incluso diseñarle a mi familia tarjetas de presentacion o tazas</p>
+                            <h4>SSC Tuatara</h4>
+                            <p class="text-black-50 mb-0">La última creación de SSC North America obtuvo oficialmente el Récord
+                                Guinness que le acredita con ese título el pasado 2021 tras alcanzar una marca oficial de 455,28 km/h,
+                                que surge de la media de dos carreras en distinto sentido -para tener en cuenta el empuje del viento-, 
+                                alcanzando en una de ellas una velocidad máxima de 460 km/h. </p>
                         </div>
                     </div>
                 </div>
                 <!-- Project One Row-->
                 <div class="row gx-0 mb-5 mb-lg-0 justify-content-center">
-                    <div class="col-lg-6"><img class="img-fluid" src="assets/img/04.jpeg" alt="..." /></div>
+                    <div class="col-lg-6"><img class="img-fluid" src="assets/img/03.jpg" alt="..." /></div>
                     <div class="col-lg-6">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-left">
-                                    <h4 class="text-white">Deporte</h4>
-                                    <p class="mb-0 text-white-50">Me gusta bastante practicar una hora de deporte al día ya sea jugando futbol americano, futbol soquer o salir en bicicleta entre otros mas pero por lo regular practico mas los mencionados o voy a gym</p>
+                                    <h4 class="text-white">Koenigsegg Agera RS</h4>
+                                    <p class="mb-0 text-white-50">Rival de Bugatti a la hora de crear hypercars "caza-récords" y en 2017 
+                                    que convirtió en la reina absoluta de la velocidad con la versión más salvaje de su Agera. Con el Koenigsegg Agera RS la marca 
+                                    consiguió el Récord Guinness que le acreditaba como el coche más rápido del mundo por aquel entonces tras alcanzar una marca de 447 km/h
+                                    con los 1.160 CV de su motor V8 biturbo de 5.0 litros.</p>
                                     <hr class="d-none d-lg-block mb-0 ms-0" />
                                 </div>
                             </div>
@@ -89,13 +97,16 @@
                 </div>
                 <!-- Project Two Row-->
                 <div class="row gx-0 justify-content-center">
-                    <div class="col-lg-6"><img class="img-fluid" src="assets/img/02.jpeg" alt="..." /></div>
+                    <div class="col-lg-6"><img class="img-fluid" src="assets/img/04.jpg" alt="..." /></div>
                     <div class="col-lg-6 order-lg-first">
                         <div class="bg-black text-center h-100 project">
                             <div class="d-flex h-100">
                                 <div class="project-text w-100 my-auto text-center text-lg-right">
-                                    <h4 class="text-white">Viajes</h4>
-                                    <p class="mb-0 text-white-50">A mi corta edad me considero afortunada por poder conocer algunos lugares turisticos muy bonitos de Mexico como lo son: Guadalajara, Oaxaca, Hidalgo, Puebla y Guerrero. Espero conocer mas este año ya que son experincias unicas.</p>
+                                    <h4 class="text-white">Hennessey Venom GT</h4>
+                                    <p class="mb-0 text-white-50">Superderportivo, una especie de Lotus Exige alargado e hipervitaminado con 
+                                        un motor V8 turbo de 6.2 litros que sacaba la friolera de 1.244 CV y consiguió arrebatarle el título de coche
+                                        más rápido del mundo al Bugatti Veyron Super Sport tras alcanzar los 432,5 km/h
+                                        en el Kennedy Space Center de la NASA. </p>
                                     <hr class="d-none d-lg-block mb-0 me-0" />
                                 </div>
                             </div>
@@ -110,7 +121,7 @@
                 <div class="row gx-4 gx-lg-5">
                     <div class="col-md-10 col-lg-8 mx-auto text-center">
                         <i class="far fa-paper-plane fa-2x mb-2 text-white"></i>
-                        <h2 class="text-white mb-5">Suscribete para poder saber mas hacerca de mi!</h2>
+                        <h2 class="text-white mb-5">Suscribete para ver mas autos!</h2>
                         <!-- * * * * * * * * * * * * * * *-->
                         <!-- * * SB Forms Contact Form * *-->
                         <!-- * * * * * * * * * * * * * * *-->
@@ -158,7 +169,7 @@
                                 <i class="fas fa-map-marked-alt text-primary mb-2"></i>
                                 <h4 class="text-uppercase m-0">Address</h4>
                                 <hr class="my-4 mx-auto" />
-                                <div class="small text-black-50">4923 Market Street, Orlando FL</div>
+                                <div class="small text-black-50">Ing.Software</div>
                             </div>
                         </div>
                     </div>
@@ -178,7 +189,7 @@
                                 <i class="fas fa-mobile-alt text-primary mb-2"></i>
                                 <h4 class="text-uppercase m-0">Phone</h4>
                                 <hr class="my-4 mx-auto" />
-                                <div class="small text-black-50">+1 (555) 916-8222</div>
+                                <div class="small text-black-50">+52 5598076543</div>
                             </div>
                         </div>
                     </div>
