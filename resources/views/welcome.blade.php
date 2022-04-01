@@ -29,6 +29,7 @@
                         <li class="nav-item"><a class="nav-link" href="#about">AUTOS</a></li>
                         <li class="nav-item"><a class="nav-link" href="#projects">DESCRIPCION</a></li>
                         <li class="nav-item"><a class="nav-link" href="#signup">CONTACTO</a></li>
+                        <li class="nav-item"><a class="nav-link" href="#signup">API</a></li>
                     </ul>
                 </div>
             </div>
@@ -232,5 +233,25 @@
         <!-- * * Activate your form at https://startbootstrap.com/solution/contact-forms * *-->
         <!-- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *-->
         <script src="https://cdn.startbootstrap.com/sb-forms-latest.js"></script>
+        <section>
+            <hr />
+            <div style='tex-align:center'>
+            <h1>API</h1>
+            <hr />
+        </section>
+        <section class="carousel">
+    <div class="reel">
+        @foreach ($personajes as $personaje)
+            <article>
+                <a target="_blank" href="{{route('dertalle.personaje',$personaje['id'])}}" class="image featured"><img src="{{$personaje['image']}}" alt="" /></a>
+                </header>
+                    <h3><a traget="_blank" href="{{route('detalle.personaje',$personaje['id])}}">{{$personaje['name']}}</a></h3>
+                </header>
+                <p>especie: {{$personaje['species]']}}.</p>
+                <p>genero: {{$personaje['geneder']}}.</p>
+                <p>estatus: {{$personaje['status']}}.</p>
+            </article>
+        @endforeach  
+    </div>
     </body>
 </html>

@@ -19,4 +19,8 @@ Route::get('/', function () {
 
 Route::get('/Inicio', function () {
     return view('inicio');
+
+    Route::get('/',[ApiController::class, 'inicio'])->name('inicio');
+
+    Route::get('/personaje/{id}',[ApiController::class, 'detallePersonaje'])->name('detalle.personaje');
 });
